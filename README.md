@@ -1,6 +1,6 @@
 ﻿# Scientific Calculator
 
-A responsive scientific calculator built with React, Vite, and Tailwind CSS.
+A responsive scientific calculator.
 
 ## Features
 
@@ -12,13 +12,7 @@ A responsive scientific calculator built with React, Vite, and Tailwind CSS.
 - History panel with reusable entries
 - Keyboard support (`Enter`, `Backspace`, `Delete`, numbers, operators)
 
-## Tech Stack
 
-- React 18
-- Vite 5
-- Tailwind CSS 3
-
-## Getting Started
 
 ### Prerequisites
 
@@ -56,17 +50,3 @@ Build settings:
 - Build command: `npm run build`
 - Output directory: `dist`
 
-## Project Structure
-
-```text
-scientific-calculator/
-  src/
-    App.jsx
-    main.jsx
-    index.css
-  index.html
-  package.json
-  tailwind.config.js
-  postcss.config.cjs
-  vite.config.js
-```
